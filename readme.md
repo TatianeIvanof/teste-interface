@@ -8,5 +8,3 @@ Aprendendo repositórios remotos
 - adicionar novas funções
 
 
-
-
