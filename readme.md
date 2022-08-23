@@ -8,4 +8,3 @@ Aprendendo repositórios remotos
 - adicionar novas funções
 
 
-Criar uma casa verde
